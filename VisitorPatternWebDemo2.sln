@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorPatternWebDemo2", "VisitorPatternWebDemo2\VisitorPatternWebDemo2.csproj", "{74A49976-606B-43CB-B2F2-EB231B7035EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VisitorPatternWebDemo2.Tests", "VisitorPatternWebDemo2.Tests\VisitorPatternWebDemo2.Tests.csproj", "{3D191CC3-CFA7-4EE9-B72A-FCDAE2A2FF15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74A49976-606B-43CB-B2F2-EB231B7035EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74A49976-606B-43CB-B2F2-EB231B7035EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74A49976-606B-43CB-B2F2-EB231B7035EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74A49976-606B-43CB-B2F2-EB231B7035EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D191CC3-CFA7-4EE9-B72A-FCDAE2A2FF15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D191CC3-CFA7-4EE9-B72A-FCDAE2A2FF15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D191CC3-CFA7-4EE9-B72A-FCDAE2A2FF15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D191CC3-CFA7-4EE9-B72A-FCDAE2A2FF15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
